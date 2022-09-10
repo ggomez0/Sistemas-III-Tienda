@@ -1,6 +1,0 @@
-# Sistemas-III-Tienda
-Pagina WEB de Tienda Virtual de productos infromaticos. Desarrollado en ASP.NET
-
-...
-BlueScreen
-...
